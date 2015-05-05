@@ -17,7 +17,7 @@ class Breed extends Eloquent {
 	 *
 	 * @var string
 	 */
-	protected $table = 'breed';
+	protected $table = 'breeds';
 
 	/**
 	 * The attributes excluded from the model's JSON form.
